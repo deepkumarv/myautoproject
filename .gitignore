@@ -1,0 +1,9 @@
+*.eggs
+.git
+.pytest_cache
+myautoproject_venv
+*.egg-info
+build
+dist
+.idea
+*__pycache__
